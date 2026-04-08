@@ -5,6 +5,7 @@ Beginner Mobile Developer
 -------------------------
 
 * 🌍  I'm based in CIlacap
+* 🎓  Undergraduate Software Engineering in Telkom University Purwokerto
 * ✉️  You can contact me at [akhmad.b1103@gmail.com](mailto:akhmad.b1103@gmail.com)
 
 <p align="left">
