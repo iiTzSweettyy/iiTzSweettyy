@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" style="vertical-align:middle"/> Hi there! I'm Ulung Putra Sadewo
+  Hi there! I'm Ulung Putra Sadewo
 </h1>
 
 <p align="center">
